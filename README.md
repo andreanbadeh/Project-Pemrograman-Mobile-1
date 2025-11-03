@@ -12,3 +12,7 @@ KELAS : TI.24.A.4
 # STORYBOARD
 
 ![gambar](https://github.com/andreanbadeh/Project-Pemrograman-Mobile-1/blob/70584696f5a6613ab3e231d456aa58693bd7dbb1/image/storyboard.jpg)
+
+# MOCKUP
+
+![gambar](https://github.com/andreanbadeh/Project-Pemrograman-Mobile-1/blob/028543a9c78b09b2eb5917861ff111e1a844818d/image/mockup.jpg)
