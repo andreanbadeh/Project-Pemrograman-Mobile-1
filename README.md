@@ -15,7 +15,7 @@ KELAS : TI.24.A.4
 
 # MOCKUP
 
-![gambar](
+![gambar](https://github.com/andreanbadeh/Project-Pemrograman-Mobile-1/blob/b0a659b3e7f2b5ff4a5e95c686a2e244b5d2c05e/image/mockup.png)
 
 # UI (USER INTERFACE)
 
