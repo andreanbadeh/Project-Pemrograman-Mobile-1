@@ -18,3 +18,9 @@ KELAS : TI.24.A.4
 ![gambar](https://github.com/andreanbadeh/Project-Pemrograman-Mobile-1/blob/028543a9c78b09b2eb5917861ff111e1a844818d/image/mockup.jpg)
 
 # UI (USER INTERFACE)
+
+![gambar]()
+
+# UX (USER EXPERIENCE)
+
+Video animasi via drive (https://drive.google.com/file/d/1KcdMw43BSF5U2ryQMH4uP45Gll6bsP-i/view?usp=drive_link)
