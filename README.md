@@ -11,7 +11,7 @@ KELAS : TI.24.A.4
 
 # STORYBOARD
 
-![gambar](https://github.com/andreanbadeh/Project-Pemrograman-Mobile-1/blob/70584696f5a6613ab3e231d456aa58693bd7dbb1/image/storyboard.jpg)
+![gambar](https://github.com/andreanbadeh/Project-Pemrograman-Mobile-1/blob/a427a6740668f97b34c664f836933b7011e9901d/image/menampilkan%20semua%20catatan%20pengguna%20dengan%20fitur%20pencarian%20dan%20filter%20sepert_20251106_071016_0000.png)
 
 # MOCKUP
 
