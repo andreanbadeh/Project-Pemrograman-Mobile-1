@@ -11,11 +11,11 @@ KELAS : TI.24.A.4
 
 # STORYBOARD
 
-![gambar](https://github.com/andreanbadeh/Project-Pemrograman-Mobile-1/blob/a427a6740668f97b34c664f836933b7011e9901d/image/menampilkan%20semua%20catatan%20pengguna%20dengan%20fitur%20pencarian%20dan%20filter%20sepert_20251106_071016_0000.png)
+![gambar]https://github.com/andreanbadeh/Project-Pemrograman-Mobile-1/blob/1b8ec1f538b4004f35524efccf19fb61bf7feb90/image/STORYBOARD.png)
 
 # MOCKUP
 
-![gambar](https://github.com/andreanbadeh/Project-Pemrograman-Mobile-1/blob/028543a9c78b09b2eb5917861ff111e1a844818d/image/mockup.jpg)
+![gambar](
 
 # UI (USER INTERFACE)
 
