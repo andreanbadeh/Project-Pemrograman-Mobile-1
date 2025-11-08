@@ -23,4 +23,4 @@ KELAS : TI.24.A.4
 
 # UX (USER EXPERIENCE)
 
-Video animasi via drive (https://drive.google.com/file/d/1KcdMw43BSF5U2ryQMH4uP45Gll6bsP-i/view?usp=drive_link)
+Video animasi via drive (https://drive.google.com/file/d/1kbxKlx4ZYvdlMkGnVzYIneGUYO6wq5Lj/view?usp=drivesdk)
