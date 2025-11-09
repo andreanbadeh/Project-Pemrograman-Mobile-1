@@ -28,3 +28,7 @@ Video animasi via drive (https://drive.google.com/file/d/1kbxKlx4ZYvdlMkGnVzYIne
 # TimeLine ClickUp
 
 ![gambar](https://github.com/andreanbadeh/Project-Pemrograman-Mobile-1/blob/d176b45c52201bee8d1a43da6299b1d23ee4a5b2/image/Screenshot%20from%202025-11-07%2010-15-24.png)
+
+# Gantt
+
+![gambar](https://github.com/andreanbadeh/Project-Pemrograman-Mobile-1/blob/8107db00f7d8ad733ba53769ec389560946fed5b/image/Screenshot%20from%202025-11-07%2010-16-03.png)
