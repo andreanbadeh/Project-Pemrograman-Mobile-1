@@ -27,7 +27,7 @@ KELAS : TI.24.A.4
 
 # UX (USER EXPERIENCE)
 
-Video animasi via drive (https://drive.google.com/file/d/1kbxKlx4ZYvdlMkGnVzYIneGUYO6wq5Lj/view?usp=drivesdk)
+(https://youtu.be/q5vIEj5ix_0?si=j0n3bXe685si1x00)
 
 # TimeLine ClickUp
 
