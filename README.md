@@ -19,7 +19,7 @@ KELAS : TI.24.A.4
 
 # UI (USER INTERFACE)
 
-![gambar]()
+(https://github.com/andreanbadeh/Project-Pemrograman-Mobile-1/blob/311352b67c1c92547161ffd0125a739c8e50ede1/UI.pdf)
 
 # UX (USER EXPERIENCE)
 
