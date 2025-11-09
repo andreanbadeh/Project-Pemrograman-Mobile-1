@@ -9,6 +9,10 @@ KELAS : TI.24.A.4
 
 ![gambar](https://github.com/andreanbadeh/Project-Pemrograman-Mobile-1/blob/6b9f239d7934ba229d71265812504ebc53adb465/image/Screenshot%20from%202025-11-03%2009-13-50.png)
 
+# Akun ClickUp
+
+(https://app.clickup.com/90181768264/v/l/s/90187396850)
+
 # STORYBOARD
 
 ![gambar](https://github.com/andreanbadeh/Project-Pemrograman-Mobile-1/blob/1b8ec1f538b4004f35524efccf19fb61bf7feb90/image/STORYBOARD.png)
